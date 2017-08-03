@@ -1,5 +1,5 @@
 {
-    "name": "KingstonCloudOrg/hybridauth",
+    "name": "hybridauth/hybridauth",
     "description": "Open source social sign on PHP library.",
     "keywords": ["oauth", "openid", "authentication", "authorization", "social", "api", "google", "facebook", "twitter"],
     "homepage": "https://hybridauth.github.io",
