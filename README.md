@@ -117,6 +117,11 @@ Hybridauth is a community driven project and accepts contributions of code and d
 
 For more information, see https://hybridauth.github.io/getinvolved.html. 
 
+### Syncing with master
+See the following articles:
+1) https://help.github.com/articles/configuring-a-remote-for-a-fork/
+2) https://help.github.com/articles/syncing-a-fork/
+
 #### Questions, Help and Support?
 
 For general questions (i.e, "how-to" questions), please consider using [StackOverflow](https://stackoverflow.com/questions/tagged/hybridauth) instead of the Github issues tracker. For convenience, we also have a [low-activity] mailing list at [Google Groups](http://groups.google.com/group/hybridauth) and a [Gitter channel](https://gitter.im/hybridauth/hybridauth) if you want to get help directly from the community.
